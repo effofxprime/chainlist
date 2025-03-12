@@ -1,9 +1,12 @@
 [
-  "archway",
-  "juno",
-  "neutron",
-  "terra",
-  "ki-chain",
-  "neutron-testnet",
-  "sei"
+    "archway",
+    "chihuahua",
+    "injective",
+    "juno",
+    "ki-chain",
+    "neutron",
+    "mantra",
+    "orai-chain",
+    "sei",
+    "terra"
 ]
